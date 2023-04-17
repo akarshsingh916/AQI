@@ -33,7 +33,9 @@ PM2.5-AVG, PM10-AVG, NO2-AVG, NH3-AVG, SO2-AG, OZONE-AVG are independent attribu
 
 As the data is numeric and there are no missing values in the data, so no preprocessing is required. Our goal is to predict the AQI, so this task is either Classification or regression. So as our class label is continuous, regression technique is required.
 
-Regression is supervised learning technique that fits the data in a given range. Example Regression techniques in Python:
+Regression is supervised learning technique that fits the data in a given range. 
+
+Example Regression techniques in Python:
 
 Random Forest Regressor
 
